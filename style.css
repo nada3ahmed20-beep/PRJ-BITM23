@@ -4,7 +4,7 @@
 
 /* Default Light Mode */
 :root {
-  --primary-color: #EBD1A7;
+  --primary-color: #fde6c2;
   --primary-color-2: #EBD1A7;
   --primary-color-3: #b9ac7d;
   --background-color: #EBD1A7;
@@ -19,7 +19,7 @@
 
 /* Dark Mode */
 [theme="dark"] {
-  --primary-color: #442A1C;
+  --primary-color: #533423;
   --primary-color-2: #4d3020;
   --primary-color-3: #482d1e;
   --background-color: #442A1C;
@@ -167,7 +167,7 @@ nav a:hover {
 }
 
 .menu-links.open {
-  max-height: 300px;
+  max-height: 500px;
 }
 
 .hamburger-icon.open span:first-child {
