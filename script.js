@@ -53,3 +53,4 @@ function setLightMode() {
     icon.src = icon.getAttribute("src-light");
   });
 }
+
